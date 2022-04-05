@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![image](https://api-donremolo.vercel.app/donRemoloLogo.svg)
 # Team Developers # 87 idforideas
 
