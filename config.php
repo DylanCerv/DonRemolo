@@ -18,6 +18,6 @@ $URLweb = 'donRemolo.com.devel';
 |   [SESSION]
 |   Configuramos el entorno SESSION
 ======================================================*/
-session_start();
+// session_start();
 
 ?>
